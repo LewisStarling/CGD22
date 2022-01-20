@@ -1,6 +1,7 @@
 {
 	"FileVersion": 3,
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 	"EngineAssociation": "{AB8AC5CB-4201-2CFD-B3E9-7D90E1A1E30F}",
@@ -13,6 +14,9 @@
 =======
 	"EngineAssociation": "4.26",
 >>>>>>> parent of 86239c6 (Update CGD22.uproject)
+=======
+	"EngineAssociation": "4.26",
+>>>>>>> parent of 6339a04 (Implementation of Sequential Buttons)
 	"Category": "",
 	"Description": ""
 }
