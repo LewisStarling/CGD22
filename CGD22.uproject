@@ -1,5 +1,6 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 	"EngineAssociation": "{AB8AC5CB-4201-2CFD-B3E9-7D90E1A1E30F}",
@@ -9,6 +10,9 @@
 =======
 	"EngineAssociation": "{AB8AC5CB-4201-2CFD-B3E9-7D90E1A1E30F}",
 >>>>>>> Stashed changes
+=======
+	"EngineAssociation": "4.26",
+>>>>>>> parent of 86239c6 (Update CGD22.uproject)
 	"Category": "",
 	"Description": ""
 }
