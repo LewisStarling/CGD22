@@ -1,5 +1,6 @@
 {
 	"FileVersion": 3,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -17,6 +18,9 @@
 =======
 	"EngineAssociation": "4.26",
 >>>>>>> parent of 6339a04 (Implementation of Sequential Buttons)
+=======
+	"EngineAssociation": "{5A907802-4EC6-6CA6-6A9D-A1AE3D309441}",
+>>>>>>> Stashed changes
 	"Category": "",
 	"Description": ""
 }
